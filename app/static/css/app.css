@@ -1,3 +1,28 @@
 body {
     padding-top: 5rem;
 }
+.form-label{
+    font-weight: bold;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.contact-form h1{
+    border-bottom-style: solid;
+    border-width: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.form-control{
+    width: 350px;
+}
+#message{
+    width: 450px;
+}
+.btn-primary{
+    padding-inline: 35px;
+}
